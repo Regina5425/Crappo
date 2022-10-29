@@ -1,4 +1,4 @@
 # Crappo
-Testpage about cryptocurrency
+Page about cryptocurrency
 
 HTML & CSS practice

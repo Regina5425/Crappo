@@ -1,3 +1,5 @@
 # Crappo
 
-Cryptocurrency page
+Страница про криптовалюту
+
+Стек: HTML, CSS, адаптивная верстка
